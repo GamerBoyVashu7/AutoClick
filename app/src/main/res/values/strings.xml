@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GamerBoyVashu Auto Clicker</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_diagnostic">Input Diagnostic Pad</string>
+    <string name="title_feasibility">Android Input Audit</string>
+    <string name="title_settings">Settings &amp; Overlay</string>
+    <string name="desc_app_subtitle">Minecraft Bedrock OTG Mouse Assistant</string>
+    <string name="emergency_stop">EMERGENCY STOP</string>
+    <string name="status_stopped">STOPPED</string>
+    <string name="status_monitoring">MONITORING</string>
+    <string name="status_active">ACTIVE</string>
+</resources>

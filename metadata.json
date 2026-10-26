@@ -1,0 +1,6 @@
+{
+  "name": "GamerBoyVashu Auto Clicker",
+  "description": "Input system diagnostics suite and auto clicker utility for Minecraft PE / Bedrock on Android with USB OTG mouse support, feasibility audits, and emergency stop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
